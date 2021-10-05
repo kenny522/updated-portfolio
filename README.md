@@ -143,4 +143,4 @@ Update your LinkedIn Profile with a strong bio statement, a professional photo, 
 <img width="2560" alt="Screen Shot 2021-10-05 at 2 07 01 PM" src="https://user-images.githubusercontent.com/84942098/136102934-1ed834f9-5c73-4911-8480-384b244a46c6.png">
 <img width="2560" alt="Screen Shot 2021-10-05 at 2 07 08 PM" src="https://user-images.githubusercontent.com/84942098/136102961-2b56f7c4-60e8-4781-96ec-81c9565fd593.png">
 
-Here is the working [LINK]()
+Here is the working [LINK](https://kenny522.github.io/updated-portfolio/)
